@@ -81,3 +81,4 @@ graph TD
     B --> F[Products, Orders, Customers]
 ```
 
+You can render this Markdown-supported diagram directly on platforms like GitHub that support Mermaid.js integration.
