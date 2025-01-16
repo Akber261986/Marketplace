@@ -13,7 +13,7 @@ marketplace-project/
 ├── FrontendPlan.md        # Frontend requirements, architecture, and tech stack
 ├── BackendPlan.md         # Backend requirements and Sanity CMS setup
 ├── APIEndPoints.md        # Details about API endpoints
-├── SystemArchitecture.md  # System architecture diagram and explanation
+├── SystemArchitecture.jpg  # System architecture diagram and explanation
 ├── Schemas.md             # Sanity CMS schemas for products, orders, customers
 ├── ThirdPartyAPIs.md      # Integration of third-party APIs (e.g., payment, shipment)
 └── LICENSE                # (Optional) Licensing information for your repo
