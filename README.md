@@ -41,22 +41,15 @@ marketplace-project/
    - Real-time shipment tracking for orders.
 
 ---
-
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/marketplace-project.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-4. Open `http://localhost:3000` in your browser.
-
+# Marketplace Technical Foundation (Written)
+![page: 1](p1.jpg)
+![page: 2](p2.jpg)
+![page: 3](p3.jpg)
+![page: 4](p4.jpg)
+![page: 5](p5.jpg)
+![page: 6](p6.jpg)
+![page: 7](p7.jpg)
+![diagram](p8.jpg)
 ---
 
-For more details, see the individual documentation files listed above.
+For more details, see the individual documentation files listed Documention directory.
